@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Neil!
 
-<!--
-**Neiljzz/Neiljzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Programming Languages:
+
+<img src="https://img.shields.io/badge/HTML5-blue?logo=html5&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/JAVASCRIPT-blue?logo=JAVASCRIPT&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/PYTHON-blue?logo=PYTHON&logoColor=white&style=for-the-badge"/>
+
+Framework:
+
+<img src="https://img.shields.io/badge/REACT-orange?logo=REACT&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/FLASK-orange?logo=FLASK&logoColor=white&style=for-the-badge"/>
+
+Design Tools:
+
+<img src="https://img.shields.io/badge/FIGMA-red?logo=figma&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/ADOBE-red?logo=ADOBE&logoColor=white&style=for-the-badge"/>
+
+
+
+
