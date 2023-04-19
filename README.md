@@ -18,6 +18,8 @@ My passion lies in taking a user-centered approach to design and finding new way
 - 🤔 I’m looking for help with improving my coding skills and learning new technologies that will enhance my design capabilities.
  
 - 💬  Ask me about my design process, how I approach user research, and my experience working on design projects for various industries. I'm always happy to share my knowledge and learn from others.
+
+- 🎨 Check out my product portfolio : https://neiljiacreations.com/
  
 - 📫 How to reach me: [neiljzzzzzz@gmail.com](mailto:neiljzzzzzz@gmail.com)
 
