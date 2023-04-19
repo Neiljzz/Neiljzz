@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Neil!
+![AdobeStock_510693654](https://user-images.githubusercontent.com/93361311/232887583-1507027d-74f5-417c-9fb8-0c6a39278a08.jpeg)
 
 
-Here are some ideas to get you started:
+### Hi there 👋, I'm Neil!😉
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
