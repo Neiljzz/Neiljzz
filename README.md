@@ -39,8 +39,6 @@ Design Tools:
 
 <img src="https://img.shields.io/badge/FIGMA-red?logo=figma&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/ADOBE-red?logo=ADOBE&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/MIRO-red?logo=MIRO&logoColor=white&style=for-the-badge"/>
 
-![Neiljzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neiljzz&show_icons=true&theme=tokyonight)
-
 
 
 
